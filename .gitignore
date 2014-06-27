@@ -1,0 +1,12 @@
+
+*.swp
+*~
+*.sdf
+*.opensdf
+*.suo
+*.user
+src/Demo/a.exe
+src/Demo/clang.txt
+Debug/
+Release/
+ipch/
